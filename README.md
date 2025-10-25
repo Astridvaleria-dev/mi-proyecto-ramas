@@ -1,2 +1,4 @@
 # mi-proyecto-ramas
-"Mi primer proyecto académico con Git y con ramas"
+
+"Práctica de Git - agregando línea de prueba para PR"
+
